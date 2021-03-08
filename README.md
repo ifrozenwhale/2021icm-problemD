@@ -11,7 +11,7 @@
 
 ### 子网分析
 
-![image-20210309014544899](C:\Users\frozenwhale\AppData\Roaming\Typora\typora-user-images\image-20210309014544899.png)
+![image-20210309014544899](https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/image-20210309014544899.png)
 
 - 选取一个音乐人，使用dfs深度优先遍历，得到以其为初始点的一个子图，计算子图的各个指标，并结合实际情况对影响关系进行分析。
 - 数据来源于Networkx库，导出数据，图使用Gephi进行制作。
